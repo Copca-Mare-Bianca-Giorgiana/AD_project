@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1716995218 source:c:\users\adoni$\desktop\temadecasa\lobsters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"lobster.h"
+
+1716980956 c:\users\adoni$\desktop\temadecasa\lobsters\lobster.h
+	<stdio.h>
+
+1716995178 source:c:\users\adoni$\desktop\temadecasa\lobsters\lobster.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"lobster.h"
+
+1716995218 source:c:\users\adoni$\desktop\tema\ad_project\lobsters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"lobster.h"
+
+1716980956 c:\users\adoni$\desktop\tema\ad_project\lobsters\lobster.h
+	<stdio.h>
+
+1717090480 source:c:\users\adoni$\desktop\tema\ad_project\lobsters\lobster.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"lobster.h"
+
